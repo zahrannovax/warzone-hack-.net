@@ -1,0 +1,42 @@
+/** Descriptive image alts — Google rejects empty or keyword-only alts. */
+export const DESCRIPTIVE_IMAGE_ALTS = {
+	hero: 'Warzone Cheats hero — ESP and aimbot overlay in Warzone',
+	espWallhack: 'Wallhack outlines showing players and squads through walls',
+	aimbotCombat: 'Soft aim assist overlay during an Warzone raid',
+	squadFight: 'Warzone Cheats combat overlay during a squad fight',
+	playerEsp: 'Player ESP boxes and distance readouts in a Warzone raid',
+	headerArt: 'Aimbot view and bone priority controls for Warzone',
+	cheatsPackage: '2D radar threat overlay for Warzone',
+	rebootFight: 'Aimbot assist during a Warzone firefight',
+	battleRoyale: 'Warzone Cheats in-raid overview for Windows PC',
+	battleRoyaleIsland: 'ESP markers for loot and extracts in Warzone',
+};
+
+/** Page-level image alt by pageId (EN source of truth). */
+export const PAGE_IMAGE_ALTS = {
+	home: 'Warzone Cheats homepage hero — ESP and aimbot for Warzone',
+	'warzone-esp': 'Warzone ESP player boxes and distance readouts in a raid',
+	'warzone-aimbot': 'Warzone aimbot and soft aim controls on Windows PC',
+	features: 'Warzone Cheats features — ESP, soft aim, and radar screenshots',
+	pricing: 'Warzone Cheats store plans for monthly and lifetime licenses',
+	setup: 'Warzone Cheats setup guide screenshot for Windows PC',
+	updates: 'Warzone Cheats live status after Ricochet and game patches',
+	faq: 'Warzone Cheats FAQ — delivery, setup, and update answers',
+	support: 'Warzone Cheats support page for license and setup help',
+	undetected: 'Warzone Cheats undetected status overview for Windows PC',
+	wallhack: 'Warzone wallhack visibility through walls in a raid',
+	radar: 'Warzone 2D radar overlay showing nearby threats',
+	ricochet: 'Warzone Cheats maintenance after a Ricochet patch',
+	'cheats-2026': 'Warzone Cheats product overview for Warzone',
+	hacks: 'Warzone Cheats product page — ESP, aimbot, and radar',
+	'cheat-download': 'Warzone Cheats download and install delivery flow',
+	'mod-menu': 'Warzone Cheats in-game menu controls',
+	'soft-aim': 'Warzone soft aim FOV and smoothness settings',
+	'best-cheats': 'Warzone Cheats overview for Warzone on PC',
+	'aimbot-hack': 'Warzone aimbot hack controls and bone priority',
+	'esp-hack': 'Warzone ESP hack boxes and loot markers',
+	'unlock-all': 'Warzone Cheats license features overview',
+	privacy: 'Warzone Cheats privacy policy page',
+	refund: 'Warzone Cheats refund policy page',
+	terms: 'Warzone Cheats terms of use page',
+};
