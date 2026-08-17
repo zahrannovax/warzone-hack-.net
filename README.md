@@ -1,6 +1,6 @@
-# Tarkov Cheats — Marketing Site
+# Warzone Cheats — Marketing Site
 
-Static Astro 7 site for [tarkovcheats.org](https://tarkovcheats.org). Primary SEO keyword: **tarkov cheats** (secondary: escape from tarkov cheats, aimbot, ESP).
+Static Astro 7 site for [warzonehack.net](https://warzonehack.net). Primary SEO keyword: **warzone cheats** (secondary: warzone hacks, aimbot, ESP, BO6/BO7 cheats).
 
 ## Stack
 
@@ -17,6 +17,8 @@ node scripts/generate-blog-posts.mjs
 npm run dev
 ```
 
+Brand tokens (name, domain, colors, SEO meta): edit `src/data/brand.ts`, then run `npm run sync:brand`. Employees can use **Brand Studio** at `http://localhost:4321/brand-studio/` during dev.
+
 Build and validate sitemaps:
 
 ```bash
@@ -25,14 +27,14 @@ npm run build:validate
 
 ## Deploy (Cloudflare Pages)
 
-1. Create a Cloudflare Pages project named **besttarkovcheats**
+1. Create a Cloudflare Pages project (e.g. **warzonehack**)
 2. Connect this repo or upload `dist/` after `npm run build`
 3. Build command: `npm run build`
 4. Output directory: `dist`
-5. Add custom domain **tarkovcheats.org** (apex) and redirect **www** → apex
+5. Add custom domain **warzonehack.net** (apex) and redirect **www** → apex
 6. Enable SSL **Always Use HTTPS**
 
-CLI deploy:
+CLI deploy (update `--project-name` in `package.json` if your Pages project name differs):
 
 ```bash
 npm run pages:deploy
@@ -41,8 +43,8 @@ npm run pages:deploy
 ## Environment
 
 - Node.js >= 22.12.0
-- Checkout URL: Zadeyo Tarkov product (`siteConfig.checkoutUrl` in `src/data/site.ts`)
+- Checkout URL: Zadeyo Warzone product (`brand.checkoutUrl` in `src/data/brand.ts`)
 
 ## License
 
-Private — for tarkovcheats.org deployment only.
+Private — for warzonehack.net deployment only.
