@@ -31,6 +31,14 @@ function countBrandSitemapImages() {
 	return new Set(srcs).size || 6;
 }
 
+function countBlogPosts() {
+	const src = readFileSync(path.join(ROOT, 'src/data/blog/posts.generated.ts'), 'utf8');
+	return [...src.matchAll(/^\t\tid:\s*"/gm)].length;
+}
+
+const BLOG_POST_PAGES = countBlogPosts();
+const BLOG_PAGES = 1 + BLOG_POST_PAGES; // /blog/ index + EN post detail pages
+
 /** dist/ for static builds; dist/client/ when a Cloudflare adapter rearranges assets. */
 async function resolveDistRoot() {
 	const candidates = [
@@ -52,7 +60,6 @@ async function resolveDistRoot() {
 const SITE = readBrandUrl();
 const IMAGE_SITEMAP_ENTRIES = countBrandSitemapImages();
 
-const BLOG_PAGES = 1; // /blog/ index only (posts cleared for retarget)
 const REVIEW_PAGES = 11; // /reviews/ index + 10 review detail pages
 const FAQ_PAGES = 11; // FAQ answer pages (index is in the product pages)
 /** Product pages in sitemap — excludes cannibal EN URLs that 301 to stronger pillars */
@@ -67,8 +74,8 @@ const I18N_URLS = I18N_LOCALES * PAGES_PER_LOCALE;
 const TOTAL_PAGES = ENGLISH_PAGES + I18N_URLS;
 /** Full EN HTML may still emit redirect stubs for cannibal URLs; sitemaps omit them */
 const ENGLISH_HTML_PAGES = 25 + BLOG_PAGES + REVIEW_PAGES + FAQ_PAGES;
-/** Locale HTML = product pages + blog redirect stubs (index only) that are omitted from sitemaps */
-const LOCALE_BLOG_REDIRECT_PAGES = 1;
+/** Locale HTML includes blog index + post redirect stubs (301 to EN); omitted from sitemaps */
+const LOCALE_BLOG_REDIRECT_PAGES = BLOG_PAGES;
 const TOTAL_HTML_PAGES =
 	ENGLISH_HTML_PAGES + I18N_LOCALES * (PRODUCT_PAGES_PER_LOCALE + LOCALE_BLOG_REDIRECT_PAGES);
 const HREFLANG_PER_URL = 23;
