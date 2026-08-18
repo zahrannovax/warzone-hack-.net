@@ -47,7 +47,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				hero: {
 					accent: "2026 — Undetected ESP, Aimbot & Wallhack",
 					accentShort: "Undetected warzone cheats 2026",
-					subtitle: "Dominate Warzone, MW2, MW3, BO6, and BO7 with our premium multi-game COD cheats. Advanced aimbot with humanizer and comprehensive ESP.",
+					subtitle: "Warzone cheats with warzone esp, radar hack and warzone aimbot for Windows PC — Ricochet maintenance included.",
 					subtitleShort: "Warzone esp, radar & aimbot for PC",
 					buyNow: "Buy Warzone Cheats",
 					seeFeatures: "See Features",
@@ -59,7 +59,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					delivery: "Instant digital delivery",
 					platform: "Windows 10 & 11",
 					antiCheat: "Ricochet maintenance supported",
-					antiCheatShort: "Ricochet anti-cheat supported",
+					antiCheatShort: "Ricochet supported",
 				},
 				product: {
 					title: "Warzone Cheats",
@@ -87,16 +87,16 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				footer: {
 					explore: "Explore",
 					help: "Help & legal",
-					tagline: "Undetected Warzone cheats for PC.\nAimbot, ESP, loot ESP & radar.",
+					tagline: "Undetected Warzone cheats for PC.\nESP, wallhack, radar & aimbot.",
 				},
 				images: {
-					hero: "Warzone Cheats hero — aimbot and ESP overlay in Warzone",
-					espWallhack: "ESP boxes and skeleton showing players through cover",
+					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
+					espWallhack: "Wallhack outlines showing players and squads through walls",
 					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
 					playerEsp: "Player ESP boxes and distance readouts in Warzone",
-					headerArt: "Aimbot view and humanizer controls for Warzone",
-					cheatsPackage: "Radar and compass overlay for Warzone",
+					headerArt: "Aimbot view and bone priority controls for Warzone",
+					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
 					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
 					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
@@ -108,7 +108,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 					description: "Warzone cheats for Windows PC — ESP, soft aim, radar, and Ricochet updates. Compare plans and buy.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack & Aimbot",
 					intro: "Warzone Cheats is the undetected warzone cheats package for Windows PC — built for Warzone on Windows PC. Warzone esp wallhack, 2D radar, and warzone aimbot with Ricochet maintenance after every major patch.",
-					imageAlt: "Warzone Cheats homepage hero — aimbot and ESP for Warzone",
+					imageAlt: "Warzone Cheats homepage hero — ESP and aimbot for Warzone",
 					galleryTitle: "Warzone Cheats gallery — ESP, Aimbot and wallhack visuals",
 					ctaPrimary: "Buy Warzone Cheats",
 					ctaSecondary: "See all features",
@@ -241,7 +241,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				features: {
 					title: "Warzone Cheats Features | ESP, Soft Aim & Radar",
-					description: "Full warzone cheats feature list: ESP boxes, soft aim, radar, and toggles for Windows PC. Review controls before checkout.",
+					description: "Full warzone cheats feature list: ESP boxes, soft aim, radar, and toggles for Windows PC. Review controls before",
 					h1: "Warzone Cheats Features — Full Control List",
 					intro: "Every ESP wallhack, radar hack, and Aimbot control included in the Warzone Cheats package for Warzone on Windows PC — with Ricochet maintenance after major patches.",
 					imageAlt: "Warzone Cheats features — ESP, soft aim, and radar screenshots",
@@ -659,7 +659,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				hacks: {
 					title: "Warzone Cheats 2026 | Undetected ESP Aimbot Guide",
-					description: "Warzone cheats for Windows PC: undetected ESP wallhack, radar hack, and Aimbot with Ricochet maintenance. Compare warzone cheats options and buy the full package.",
+					description: "Warzone cheats for Windows PC: undetected ESP wallhack, radar hack, and Aimbot with Ricochet maintenance. Compare warzone cheats options and buy the full",
 					h1: "Warzone Cheats — Undetected ESP, Aimbot & Wallhack",
 					intro: "Warzone cheats for Battle Royale and Resurgence combine ESP wallhack visibility, 2D radar-style threat cues, and Aimbot controls in one undetected Windows PC license — maintained after Ricochet patches. This is the pillar guide for warzone cheats in 2026.",
 					imageAlt: "Warzone Cheats product page — ESP, aimbot, and radar",
@@ -819,7 +819,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"best-cheats": {
 					title: "Best Warzone Cheats 2026 | Buyer Guide",
-					description: "Best warzone cheats for 2026: ESP boxes, soft aim, and Ricochet maintenance on Windows PC. Use this checklist before checkout.",
+					description: "Best warzone cheats for 2026: ESP boxes, soft aim, and Ricochet maintenance on Windows PC. Use this checklist before",
 					h1: "Best Warzone Cheats — 2026 Buyer Guide",
 					intro: "Compare the Warzone cheats for Warzone in 2026 — undetected ESP wallhack, radar hack, and Aimbot in one maintained package with Ricochet rebuilds and instant delivery.",
 					imageAlt: "Warzone Cheats overview for Warzone on PC",
@@ -971,7 +971,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				privacy: {
 					title: "Privacy Policy | Warzone Cheats",
-					description: "Privacy policy for Warzone Cheats. How we handle support emails, order data, and checkout for warzone cheats licenses on warzonehack.net.",
+					description: "Privacy policy for Warzone Cheats. How we handle support emails, order data, and for warzone cheats licenses on warzonehack.net.",
 					h1: "Privacy Policy",
 					intro: "How Warzone Cheats handles information when you browse warzonehack.net or contact support about a Warzone license.",
 					imageAlt: "Warzone Cheats privacy policy page",
@@ -1011,7 +1011,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				refund: {
 					title: "Refund Policy | Warzone Cheats",
-					description: "Refund policy for Warzone Cheats. Digital delivery terms and eligibility for warzone cheats packages with ESP, soft aim, and radar.",
+					description: "Refund policy for Warzone Cheats. instant digital delivery. terms and eligibility for warzone cheats packages with ESP, soft aim, and radar.",
 					h1: "Refund Policy",
 					intro: "Refund terms for Warzone Cheats licenses — ESP wallhack, radar hack, and Aimbot packages purchased through checkout for Warzone.",
 					imageAlt: "Warzone Cheats refund policy page",
@@ -1143,20 +1143,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack y Aimbot",
-					description: "Trucos Warzone indetectables para Warzone en PC. ESP wallhack, radar hack y Aimbot con mantenimiento Ricochet. Entrega digital",
+					description: "Trucos Warzone indetectables para Warzone en PC. ESP wallhack, radar hack y Aimbot con mantenimiento Ricochet. Entrega digital instantánea.",
 					h1: "Warzone Cheats — ESP, Wallhack y Aimbot indetectables",
 					intro: "Paquete undetected para Warzone en Windows PC: ESP wallhack, radar y Aimbot con mantenimiento Ricochet tras cada parche.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -1170,7 +1170,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Por qué eligen Warzone Cheats en 2026",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Ideal para leer escuadrones enemigos en BR y Resurgence.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
@@ -1198,20 +1198,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. player boxes, loot markers, and wallhack overlays.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1233,20 +1233,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1268,20 +1268,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Funciones",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. ESP, soft aim, radar controls.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1303,20 +1303,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Precios",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. $35 monthly or $150 lifetime licenses.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1338,20 +1338,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalación",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Windows PC activation and first-launch setup.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1373,20 +1373,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Actualizaciones",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Ricochet patch status and rebuild notes.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1408,20 +1408,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1443,20 +1443,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soporte",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. order help and license support contact.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1478,20 +1478,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trucos indetectables",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. undetected maintenance after Ricochet patches.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1513,20 +1513,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. wallhack ESP for players, loot, and distance.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1548,20 +1548,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. 2D radar cues for flanks and rotations.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1583,20 +1583,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. how Ricochet updates are handled for Warzone hacks.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1604,7 +1604,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Trucos Warzone 2026 | Guía del comprador",
-					description: "Trucos Warzone 2026: 2026 Warzone cheats checklist before checkout. entrega digital instantánea. indetectables — Windows PC.",
+					description: "Trucos Warzone 2026: 2026 Warzone cheats checklist before entrega digital instantánea. indetectables — Windows PC.",
 					h1: "Trucos Warzone 2026",
 					intro: "Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Trucos Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -1618,20 +1618,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trucos Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. 2026 Warzone cheats checklist before checkout.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1653,20 +1653,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Trucos Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1688,20 +1688,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Descarga Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. digital license download after payment.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1723,20 +1723,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Menú mod Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. in-client ESP and soft aim toggles.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1758,20 +1758,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. smooth soft aim settings for Windows PC.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1793,20 +1793,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mejores trucos Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. what to compare before buying Warzone cheats.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1828,20 +1828,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. undetected Aimbot hack assist for Warzone.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1863,20 +1863,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. ESP hack boxes, loot pins, and distance.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1898,20 +1898,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "indetectables",
 							paragraphs: [
 								"Consulta la página Updates antes de jugar tras parches de Ricochet. Ningún cheat garantiza estado indetectable permanente.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
 							h2: "entrega digital instantánea",
 							paragraphs: [
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 								"Contacta support@warzonehack.net para solicitudes legales o de soporte.",
 							],
 						},
@@ -1968,7 +1968,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Entrega digital",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Contact email, order references, and basic site security data.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
@@ -2003,7 +2003,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aceptación de términos",
 							paragraphs: [
 								"Warzone Cheats ofrece ESP wallhack, radar hack y warzone aimbot indetectables para Warzone en Windows PC. Contact email, order references, and basic site security data.",
-								"Licencias con entrega digital instantánea vía checkout. Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
+								"Licencias con entrega digital instantánea vía checkout . Planes $35/mes y $150 de por vida incluyen Ricochet maintenance.",
 							],
 						},
 						{
@@ -2086,20 +2086,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack et Aimbot",
-					description: "Triches Warzone indétectables pour Warzone sur PC. ESP wallhack, radar hack et Aimbot avec maintenance Ricochet. Livraison",
+					description: "Triches Warzone indétectables pour Warzone sur PC. ESP wallhack, radar hack et Aimbot avec maintenance Ricochet. Livraison numérique instantanée.",
 					h1: "Warzone Cheats — ESP, Wallhack et Aimbot indétectables",
 					intro: "Pack undetected pour Warzone sur PC Windows : ESP wallhack, radar et Aimbot avec maintenance Ricochet après chaque patch.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -2113,7 +2113,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pourquoi choisir Warzone Cheats en 2026",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Parfait pour lire les escouades ennemies en BR et Resurgence.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
@@ -2141,20 +2141,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. player boxes, loot markers, and wallhack overlays.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2176,20 +2176,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2211,20 +2211,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Fonctions",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. ESP, soft aim, radar controls.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2246,20 +2246,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Tarifs",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. $35 monthly or $150 lifetime licenses.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2281,20 +2281,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installation",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Windows PC activation and first-launch setup.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2316,20 +2316,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mises à jour",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Ricochet patch status and rebuild notes.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2351,20 +2351,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2386,20 +2386,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Support",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. order help and license support contact.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2421,20 +2421,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Triches indétectables",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. undetected maintenance after Ricochet patches.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2456,20 +2456,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. wallhack ESP for players, loot, and distance.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2491,20 +2491,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. 2D radar cues for flanks and rotations.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2526,20 +2526,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. how Ricochet updates are handled for Warzone hacks.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2547,7 +2547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Triches Warzone 2026 | Guide acheteur",
-					description: "Triches Warzone 2026: 2026 Warzone cheats checklist before checkout. livraison numérique instantanée. indétectables — PC Windows.",
+					description: "Triches Warzone 2026: 2026 Warzone cheats checklist before livraison numérique instantanée. indétectables — PC Windows.",
 					h1: "Triches Warzone 2026",
 					intro: "Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Triches Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -2561,20 +2561,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Triches Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. 2026 Warzone cheats checklist before checkout.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2596,20 +2596,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Triches Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2631,20 +2631,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Téléchargement Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. digital license download after payment.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2666,20 +2666,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Menu mod Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. in-client ESP and soft aim toggles.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2701,20 +2701,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. smooth soft aim settings for Windows PC.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2736,20 +2736,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Meilleures triches Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. what to compare before buying Warzone cheats.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2771,20 +2771,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. undetected Aimbot hack assist for Warzone.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2806,20 +2806,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. ESP hack boxes, loot pins, and distance.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2841,20 +2841,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "indétectables",
 							paragraphs: [
 								"Consultez Updates après les patchs Ricochet. Aucune triche ne garantit un statut indétectable permanent.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
 							h2: "livraison numérique instantanée",
 							paragraphs: [
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 								"Contactez support@warzonehack.net pour le support ou les demandes légales.",
 							],
 						},
@@ -2911,7 +2911,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Livraison numérique",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Contact email, order references, and basic site security data.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
@@ -2946,7 +2946,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptation",
 							paragraphs: [
 								"Warzone Cheats combine ESP wallhack, radar hack et warzone aimbot indétectables pour Warzone sur PC Windows. Contact email, order references, and basic site security data.",
-								"Licences avec livraison numérique instantanée via checkout. Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
+								"Licences avec livraison numérique instantanée via checkout . Forfaits 35 $/mois et 150 $ à vie incluent la maintenance Ricochet.",
 							],
 						},
 						{
@@ -3029,14 +3029,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -3056,7 +3056,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warum Warzone Cheats 2026 führt",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Ideal um feindliche Squads in BR und Resurgence zu lesen.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
@@ -3084,20 +3084,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. player boxes, loot markers, and wallhack overlays.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3119,20 +3119,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3154,20 +3154,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Features",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. ESP, soft aim, radar controls.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3189,20 +3189,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Preise",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. $35 monthly or $150 lifetime licenses.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3224,20 +3224,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Windows PC activation and first-launch setup.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3259,20 +3259,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Ricochet patch status and rebuild notes.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3294,20 +3294,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. ESP, soft aim, delivery, and Ricochet questions.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3329,20 +3329,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Support",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. order help and license support contact.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3364,20 +3364,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected Cheats",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. undetected maintenance after Ricochet patches.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3399,20 +3399,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. wallhack ESP for players, loot, and distance.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3434,20 +3434,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. 2D radar cues for flanks and rotations.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3469,20 +3469,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. how Ricochet updates are handled for Warzone hacks.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3490,7 +3490,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Käuferleitfaden",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. sofortige digitale Lieferung. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before sofortige digitale Lieferung. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -3504,20 +3504,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. 2026 Warzone cheats checklist before checkout.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3539,20 +3539,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. the Warzone hacks pillar for ESP and Aimbot.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3574,20 +3574,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. digital license download after payment.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3609,20 +3609,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod-Menü",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. in-client ESP and soft aim toggles.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3644,20 +3644,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. smooth soft aim settings for Windows PC.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3679,20 +3679,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Beste Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. what to compare before buying Warzone cheats.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3714,20 +3714,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hack",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. undetected Aimbot hack assist for Warzone.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3749,20 +3749,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hack",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. ESP hack boxes, loot pins, and distance.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3784,20 +3784,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. unlock-all searches vs real ESP and Aimbot tools.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Updates-Seite nach Ricochet-Patches prüfen. Kein Cheat garantiert dauerhaft undetected Status.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
 							h2: "sofortige digitale Lieferung",
 							paragraphs: [
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 								"support@warzonehack.net für Support und rechtliche Anfragen.",
 							],
 						},
@@ -3854,7 +3854,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digitale Lieferung",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Contact email, order references, and basic site security data.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
@@ -3889,7 +3889,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Annahme",
 							paragraphs: [
 								"Warzone Cheats bündelt ESP wallhack, radar hack und warzone aimbot als undetected Paket für Warzone auf Windows PC. Contact email, order references, and basic site security data.",
-								"Lizenzen mit sofortige digitale Lieferung über checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
+								"Lizenzen mit sofortige digitale Lieferung über  Checkout. $35/Monat und $150 Lifetime inkl. Ricochet-Wartung.",
 							],
 						},
 						{
@@ -3972,20 +3972,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheats Warzone indetectáveis para Warzone no PC. ESP wallhack, radar hack e Aimbot com manutenção Ricochet. Entrega digital",
+					description: "Cheats Warzone indetectáveis para Warzone no PC. ESP wallhack, radar hack e Aimbot com manutenção Ricochet. Entrega digital instantánea.",
 					h1: "Warzone Cheats — ESP, Wallhack e Aimbot indetectáveis",
 					intro: "Pacote undetected para Warzone no Windows PC: ESP wallhack, radar e Aimbot com manutenção Ricochet após cada patch.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -3999,7 +3999,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Por que escolher Warzone Cheats em 2026",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Ideal para ler esquadrões inimigos em BR e Resurgence.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
@@ -4027,20 +4027,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. player boxes, loot markers, and wallhack overlays.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4062,20 +4062,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4097,20 +4097,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Recursos",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. ESP, soft aim, radar controls.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4132,20 +4132,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Preços",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. $35 monthly or $150 lifetime licenses.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4167,20 +4167,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalação",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Windows PC activation and first-launch setup.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4202,20 +4202,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Atualizações",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Ricochet patch status and rebuild notes.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4237,20 +4237,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4272,20 +4272,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Suporte",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. order help and license support contact.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4307,20 +4307,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats indetectáveis",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. undetected maintenance after Ricochet patches.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4342,20 +4342,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. wallhack ESP for players, loot, and distance.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4377,20 +4377,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. 2D radar cues for flanks and rotations.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4412,20 +4412,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. how Ricochet updates are handled for Warzone hacks.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4433,7 +4433,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheats Warzone 2026 | Guia do comprador",
-					description: "Cheats Warzone 2026: 2026 Warzone cheats checklist before checkout. entrega digital instantânea. indetectáveis — PC Windows.",
+					description: "Cheats Warzone 2026: 2026 Warzone cheats checklist before entrega digital instantânea. indetectáveis — PC Windows.",
 					h1: "Cheats Warzone 2026",
 					intro: "Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Cheats Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -4447,20 +4447,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. 2026 Warzone cheats checklist before checkout.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4482,20 +4482,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4517,20 +4517,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Download Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. digital license download after payment.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4552,20 +4552,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Menu mod Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. in-client ESP and soft aim toggles.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4587,20 +4587,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. smooth soft aim settings for Windows PC.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4622,20 +4622,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Melhores cheats Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. what to compare before buying Warzone cheats.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4657,20 +4657,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. undetected Aimbot hack assist for Warzone.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4692,20 +4692,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. ESP hack boxes, loot pins, and distance.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4727,20 +4727,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "indetectáveis",
 							paragraphs: [
 								"Verifique Updates após patches Ricochet. Nenhum cheat garante status indetectável permanente.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
 							h2: "entrega digital instantânea",
 							paragraphs: [
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 								"Contacte support@warzonehack.net para suporte ou questões legais.",
 							],
 						},
@@ -4797,7 +4797,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Contact email, order references, and basic site security data.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
@@ -4832,7 +4832,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats reúne ESP wallhack, radar hack e warzone aimbot indetectáveis para Warzone no PC Windows. Contact email, order references, and basic site security data.",
-								"Licenças com entrega digital instantânea via checkout. Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
+								"Licenças com entrega digital instantânea via checkout . Planos $35/mês e $150 vitalício incluem manutenção Ricochet.",
 							],
 						},
 						{
@@ -4915,20 +4915,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack e Aimbot",
-					description: "Cheat Warzone indetectable per Warzone su PC. ESP wallhack, radar hack e Aimbot con manutenzione Ricochet. Consegna digitale",
+					description: "Cheat Warzone indetectable per Warzone su PC. ESP wallhack, radar hack e Aimbot con manutenzione Ricochet. Consegna digitale istantanea.",
 					h1: "Warzone Cheats — ESP, Wallhack e Aimbot indetectable",
 					intro: "Pacchetto undetected per Warzone su PC Windows: ESP wallhack, radar e Aimbot con manutenzione Ricochet dopo ogni patch.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -4942,7 +4942,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Perché scegliere Warzone Cheats nel 2026",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Ideale per leggere squadre nemiche in BR e Resurgence.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
@@ -4970,20 +4970,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. player boxes, loot markers, and wallhack overlays.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5005,20 +5005,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5040,20 +5040,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Funzioni",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. ESP, soft aim, radar controls.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5075,20 +5075,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prezzi",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. $35 monthly or $150 lifetime licenses.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5110,20 +5110,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Windows PC activation and first-launch setup.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5145,20 +5145,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aggiornamenti",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Ricochet patch status and rebuild notes.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5180,20 +5180,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5215,20 +5215,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Supporto",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. order help and license support contact.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5250,20 +5250,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat indetectable",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. undetected maintenance after Ricochet patches.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5285,20 +5285,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. wallhack ESP for players, loot, and distance.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5320,20 +5320,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. 2D radar cues for flanks and rotations.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5355,20 +5355,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. how Ricochet updates are handled for Warzone hacks.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5376,7 +5376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheat Warzone 2026 | Guida acquirente",
-					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before checkout. consegna digitale istantanea. indetectable — PC Windows.",
+					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before consegna digitale istantanea. indetectable — PC Windows.",
 					h1: "Cheat Warzone 2026",
 					intro: "Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Cheat Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -5390,20 +5390,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. 2026 Warzone cheats checklist before checkout.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5425,20 +5425,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5460,20 +5460,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Download Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. digital license download after payment.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5495,20 +5495,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mod menu Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. in-client ESP and soft aim toggles.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5530,20 +5530,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. smooth soft aim settings for Windows PC.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5565,20 +5565,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Migliori cheat Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. what to compare before buying Warzone cheats.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5600,20 +5600,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. undetected Aimbot hack assist for Warzone.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5635,20 +5635,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. ESP hack boxes, loot pins, and distance.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5670,20 +5670,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "indetectable",
 							paragraphs: [
 								"Controlla Updates dopo patch Ricochet. Nessun cheat garantisce stato indetectable permanente.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
 							h2: "consegna digitale istantanea",
 							paragraphs: [
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 								"Contatta support@warzonehack.net per supporto o richieste legali.",
 							],
 						},
@@ -5740,7 +5740,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Contact email, order references, and basic site security data.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
@@ -5775,7 +5775,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats unisce ESP wallhack, radar hack e warzone aimbot indetectable per Warzone su PC Windows. Contact email, order references, and basic site security data.",
-								"Licenze con consegna digitale istantanea via checkout. Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
+								"Licenze con consegna digitale istantanea via checkout . Piani $35/mese e $150 a vita includono manutenzione Ricochet.",
 							],
 						},
 						{
@@ -5858,14 +5858,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -5885,7 +5885,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Waarom Warzone Cheats in 2026",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Ideaal om vijandelijke squads te lezen in BR en Resurgence.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
@@ -5913,20 +5913,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. player boxes, loot markers, and wallhack overlays.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -5948,20 +5948,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -5983,20 +5983,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Functies",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. ESP, soft aim, radar controls.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6018,20 +6018,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prijzen",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. $35 monthly or $150 lifetime licenses.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6053,20 +6053,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Windows PC activation and first-launch setup.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6088,20 +6088,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Updates",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Ricochet patch status and rebuild notes.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6123,20 +6123,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6158,20 +6158,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Support",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. order help and license support contact.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6193,20 +6193,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected Cheats",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. undetected maintenance after Ricochet patches.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6228,20 +6228,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. wallhack ESP for players, loot, and distance.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6263,20 +6263,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. 2D radar cues for flanks and rotations.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6298,20 +6298,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. how Ricochet updates are handled for Warzone hacks.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6319,7 +6319,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. directe digitale levering. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before directe digitale levering. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -6333,20 +6333,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. 2026 Warzone cheats checklist before checkout.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6368,20 +6368,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6403,20 +6403,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. digital license download after payment.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6438,20 +6438,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod Menu",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. in-client ESP and soft aim toggles.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6473,20 +6473,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. smooth soft aim settings for Windows PC.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6508,20 +6508,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Beste Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. what to compare before buying Warzone cheats.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6543,20 +6543,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hack",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. undetected Aimbot hack assist for Warzone.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6578,20 +6578,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hack",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. ESP hack boxes, loot pins, and distance.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6613,20 +6613,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Check Updates na Ricochet-patches. Geen cheat garandeert permanent undetected status.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
 							h2: "directe digitale levering",
 							paragraphs: [
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 								"support@warzonehack.net voor support en juridische vragen.",
 							],
 						},
@@ -6683,7 +6683,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Contact email, order references, and basic site security data.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
@@ -6718,7 +6718,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats bundelt ESP wallhack, radar hack en warzone aimbot als undetected pakket voor Warzone op Windows PC. Contact email, order references, and basic site security data.",
-								"Licenties met directe digitale levering via checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
+								"Licenties met directe digitale levering via  checkout. $35/maand en $150 lifetime incl. Ricochet-onderhoud.",
 							],
 						},
 						{
@@ -6801,20 +6801,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack i Aimbot",
-					description: "Undetected cheaty Warzone dla Warzone na PC. ESP wallhack, radar hack i Aimbot z konserwacją Ricochet. Natychmiastowa dostawa",
+					description: "Undetected cheaty Warzone dla Warzone na PC. ESP wallhack, radar hack i Aimbot z konserwacją Ricochet. Natychmiastowa dostawa cyfrowa.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack i Aimbot",
 					intro: "Pakiet undetected dla Warzone na Windows PC: ESP wallhack, radar i Aimbot z konserwacją Ricochet po każdym patchu.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -7262,7 +7262,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheaty Warzone 2026 | Buyer Guide",
-					description: "Cheaty Warzone 2026: 2026 Warzone cheats checklist before checkout. natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
+					description: "Cheaty Warzone 2026: 2026 Warzone cheats checklist before natychmiastowa dostawa cyfrowa. undetected — PC Windows.",
 					h1: "Cheaty Warzone 2026",
 					intro: "Warzone Cheats łączy ESP wallhack, radar hack i warzone aimbot jako pakiet undetected dla Warzone na PC Windows. Cheaty Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -7744,20 +7744,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack и Aimbot",
-					description: "Undetected читы Warzone для Warzone на PC. ESP wallhack, radar hack и Aimbot с обслуживанием Ricochet. Мгновенная цифровая",
+					description: "Undetected читы Warzone для Warzone на PC. ESP wallhack, radar hack и Aimbot с обслуживанием Ricochet. Мгновенная цифровая доставка.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack и Aimbot",
 					intro: "Undetected пакет для Warzone на Windows PC: ESP wallhack, radar и Aimbot с обслуживанием Ricochet после патчей.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -8205,7 +8205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Читы Warzone 2026 | Гайд покупателя",
-					description: "Читы Warzone 2026: 2026 Warzone cheats checklist before checkout. мгновенная цифровая доставка. undetected — Windows PC.",
+					description: "Читы Warzone 2026: 2026 Warzone cheats checklist before мгновенная цифровая доставка. undetected — Windows PC.",
 					h1: "Читы Warzone 2026",
 					intro: "Warzone Cheats объединяет ESP wallhack, radar hack и warzone aimbot в undetected пакете для Warzone на Windows PC. Читы Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -8687,14 +8687,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -8714,7 +8714,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026'da neden Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. BR ve Resurgence'da düşman squad okumak için ideal.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
@@ -8742,20 +8742,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. player boxes, loot markers, and wallhack overlays.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8777,20 +8777,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8812,20 +8812,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Özellikler",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. ESP, soft aim, radar controls.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8847,20 +8847,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Fiyatlar",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. $35 monthly or $150 lifetime licenses.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8882,20 +8882,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Kurulum",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. Windows PC activation and first-launch setup.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8917,20 +8917,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Güncellemeler",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. Ricochet patch status and rebuild notes.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8952,20 +8952,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "SSS",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. ESP, soft aim, delivery, and Ricochet questions.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -8987,20 +8987,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Destek",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. order help and license support contact.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9022,20 +9022,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected hileler",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. undetected maintenance after Ricochet patches.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9057,20 +9057,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. wallhack ESP for players, loot, and distance.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9092,20 +9092,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. 2D radar cues for flanks and rotations.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9127,20 +9127,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet bypass",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. how Ricochet updates are handled for Warzone hacks.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9148,7 +9148,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Hileleri 2026 | Buyer Guide",
-					description: "Warzone Hileleri 2026: 2026 Warzone cheats checklist before checkout. anında dijital teslimat. undetected — Windows PC.",
+					description: "Warzone Hileleri 2026: 2026 Warzone cheats checklist before anında dijital teslimat. undetected — Windows PC.",
 					h1: "Warzone Hileleri 2026",
 					intro: "Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. Warzone Hileleri 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -9162,20 +9162,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Hileleri 2026",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. 2026 Warzone cheats checklist before checkout.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9197,20 +9197,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Hileleri",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. the Warzone hacks pillar for ESP and Aimbot.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9232,20 +9232,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Hile İndir",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. digital license download after payment.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9267,20 +9267,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod Menü",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. in-client ESP and soft aim toggles.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9302,20 +9302,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. smooth soft aim settings for Windows PC.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9337,20 +9337,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "En İyi Warzone Hileleri",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. what to compare before buying Warzone cheats.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9372,20 +9372,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hilesi",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. undetected Aimbot hack assist for Warzone.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9407,20 +9407,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hilesi",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. ESP hack boxes, loot pins, and distance.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9442,20 +9442,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. unlock-all searches vs real ESP and Aimbot tools.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet yamalarından sonra Updates sayfasını kontrol edin. Hiçbir hile kalıcı undetected garantisi vermez.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
 							h2: "anında dijital teslimat",
 							paragraphs: [
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 								"Destek ve yasal sorular için support@warzonehack.net.",
 							],
 						},
@@ -9512,7 +9512,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. Contact email, order references, and basic site security data.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
@@ -9547,7 +9547,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats, Warzone için Windows PC üzerinde ESP wallhack, radar hack ve warzone aimbot undetected paket sunar. Contact email, order references, and basic site security data.",
-								"checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
+								" checkout ile anında dijital teslimat. $35/ay ve $150 ömür boyu planları Ricochet bakımı içerir.",
 							],
 						},
 						{
@@ -9630,14 +9630,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -10091,7 +10091,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "غش Warzone 2026 | Buyer Guide",
-					description: "غش Warzone 2026: 2026 Warzone cheats checklist before checkout. تسليم رقمي فوري. غير مكتشف — Windows PC.",
+					description: "غش Warzone 2026: 2026 Warzone cheats checklist before تسليم رقمي فوري. غير مكتشف — Windows PC.",
 					h1: "غش Warzone 2026",
 					intro: "Warzone Cheats يجمع ESP wallhack وradar hack وwarzone aimbot غير مكتشف لـ Warzone على Windows PC. غش Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -10573,14 +10573,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -10600,7 +10600,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026年にWarzone Cheatsを選ぶ理由",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。BRとResurgenceで敵スクワッドを読むのに最適。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
@@ -10628,20 +10628,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。player boxes, loot markers, and wallhack overlays.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10663,20 +10663,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。soft aim, FOV, and per-weapon Aimbot profiles.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10698,20 +10698,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "機能",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。ESP, soft aim, radar controls.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10733,20 +10733,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "料金",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。$35 monthly or $150 lifetime licenses.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10768,20 +10768,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "セットアップ",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。Windows PC activation and first-launch setup.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10803,20 +10803,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "更新",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。Ricochet patch status and rebuild notes.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10838,20 +10838,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。ESP, soft aim, delivery, and Ricochet questions.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10873,20 +10873,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "サポート",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。order help and license support contact.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10908,20 +10908,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetectedチート",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。undetected maintenance after Ricochet patches.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10943,20 +10943,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。wallhack ESP for players, loot, and distance.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -10978,20 +10978,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。2D radar cues for flanks and rotations.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11013,20 +11013,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。how Ricochet updates are handled for Warzone hacks.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11034,7 +11034,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. 即時デジタル配信. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before 即時デジタル配信. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -11048,20 +11048,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。2026 Warzone cheats checklist before checkout.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11083,20 +11083,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。the Warzone hacks pillar for ESP and Aimbot.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11118,20 +11118,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。digital license download after payment.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11153,20 +11153,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod Menu",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。in-client ESP and soft aim toggles.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11188,20 +11188,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。smooth soft aim settings for Windows PC.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11223,20 +11223,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "最強Warzoneチート",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。what to compare before buying Warzone cheats.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11258,20 +11258,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hack",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。undetected Aimbot hack assist for Warzone.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11293,20 +11293,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hack",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。ESP hack boxes, loot pins, and distance.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11328,20 +11328,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。unlock-all searches vs real ESP and Aimbot tools.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochetパッチ後はUpdatesページを確認。永久undetectedは保証されません。",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
 							h2: "即時デジタル配信",
 							paragraphs: [
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 								"サポート・法務: support@warzonehack.net",
 							],
 						},
@@ -11398,7 +11398,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "デジタル配信",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。Contact email, order references, and basic site security data.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
@@ -11433,7 +11433,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "規約への同意",
 							paragraphs: [
 								"Warzone CheatsはWarzone向けWindows PC用ESP wallhack、radar hack、warzone aimbotのundetectedパッケージです。Contact email, order references, and basic site security data.",
-								"checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
+								" checkoutで即時デジタル配信。$35/月と$150永久プランにRicochetメンテナンス含む。",
 							],
 						},
 						{
@@ -11516,14 +11516,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -11543,7 +11543,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026년 Warzone Cheats를 선택하는 이유",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. BR 및 Resurgence에서 적 분대 읽기에 이상적.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
@@ -11571,20 +11571,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. player boxes, loot markers, and wallhack overlays.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11606,20 +11606,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11641,20 +11641,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "기능",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. ESP, soft aim, radar controls.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11676,20 +11676,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "가격",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. $35 monthly or $150 lifetime licenses.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11711,20 +11711,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "설치",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. Windows PC activation and first-launch setup.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11746,20 +11746,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "업데이트",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. Ricochet patch status and rebuild notes.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11781,20 +11781,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. ESP, soft aim, delivery, and Ricochet questions.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11816,20 +11816,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "지원",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. order help and license support contact.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11851,20 +11851,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected 치트",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. undetected maintenance after Ricochet patches.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11886,20 +11886,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. wallhack ESP for players, loot, and distance.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11921,20 +11921,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. 2D radar cues for flanks and rotations.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11956,20 +11956,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. how Ricochet updates are handled for Warzone hacks.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -11977,7 +11977,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. 즉시 디지털 배송. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before 즉시 디지털 배송. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -11991,20 +11991,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. 2026 Warzone cheats checklist before checkout.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12026,20 +12026,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. the Warzone hacks pillar for ESP and Aimbot.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12061,20 +12061,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. digital license download after payment.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12096,20 +12096,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone 모드 메뉴",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. in-client ESP and soft aim toggles.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12131,20 +12131,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. smooth soft aim settings for Windows PC.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12166,20 +12166,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "최고의 Warzone 치트",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. what to compare before buying Warzone cheats.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12201,20 +12201,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone 에임봇 핵",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. undetected Aimbot hack assist for Warzone.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12236,20 +12236,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP 핵",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. ESP hack boxes, loot pins, and distance.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12271,20 +12271,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. unlock-all searches vs real ESP and Aimbot tools.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet 패치 후 Updates 페이지 확인. 영구 undetected 보장 없음.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
 							h2: "즉시 디지털 배송",
 							paragraphs: [
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 								"지원 및 법무: support@warzonehack.net",
 							],
 						},
@@ -12341,7 +12341,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. Contact email, order references, and basic site security data.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
@@ -12376,7 +12376,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats는 Warzone Windows PC용 ESP wallhack, radar hack, warzone aimbot undetected 패키지입니다. Contact email, order references, and basic site security data.",
-								"checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
+								" checkout으로 즉시 디지털 배송. $35/월 및 $150 평생 요금제에 Ricochet 유지보수 포함.",
 							],
 						},
 						{
@@ -12459,14 +12459,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -12486,7 +12486,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026年选择Warzone Cheats的原因",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。适合在BR和Resurgence中读取敌方小队。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
@@ -12514,20 +12514,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。player boxes, loot markers, and wallhack overlays.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12549,20 +12549,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。soft aim, FOV, and per-weapon Aimbot profiles.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12584,20 +12584,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "功能",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。ESP, soft aim, radar controls.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12619,20 +12619,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "价格",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。$35 monthly or $150 lifetime licenses.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12654,20 +12654,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "安装",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。Windows PC activation and first-launch setup.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12689,20 +12689,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "更新",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。Ricochet patch status and rebuild notes.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12724,20 +12724,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "常见问题",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。ESP, soft aim, delivery, and Ricochet questions.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12759,20 +12759,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "支持",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。order help and license support contact.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12794,20 +12794,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected作弊",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。undetected maintenance after Ricochet patches.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12829,20 +12829,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。wallhack ESP for players, loot, and distance.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12864,20 +12864,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。2D radar cues for flanks and rotations.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12899,20 +12899,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。how Ricochet updates are handled for Warzone hacks.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12920,7 +12920,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone作弊 2026 | Buyer Guide",
-					description: "Warzone作弊 2026: 2026 Warzone cheats checklist before checkout. 即时数字交付. undetected — Windows PC.",
+					description: "Warzone作弊 2026: 2026 Warzone cheats checklist before 即时数字交付. undetected — Windows PC.",
 					h1: "Warzone作弊 2026",
 					intro: "Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。Warzone作弊 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -12934,20 +12934,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone作弊 2026",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。2026 Warzone cheats checklist before checkout.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -12969,20 +12969,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone作弊",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。the Warzone hacks pillar for ESP and Aimbot.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13004,20 +13004,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone作弊下载",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。digital license download after payment.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13039,20 +13039,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone修改菜单",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。in-client ESP and soft aim toggles.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13074,20 +13074,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。smooth soft aim settings for Windows PC.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13109,20 +13109,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "最佳Warzone作弊",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。what to compare before buying Warzone cheats.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13144,20 +13144,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone自瞄外挂",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。undetected Aimbot hack assist for Warzone.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13179,20 +13179,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP外挂",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。ESP hack boxes, loot pins, and distance.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13214,20 +13214,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。unlock-all searches vs real ESP and Aimbot tools.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet补丁后请查看Updates页面。无任何作弊保证永久undetected。",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
 							h2: "即时数字交付",
 							paragraphs: [
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 								"支持与法务：support@warzonehack.net",
 							],
 						},
@@ -13284,7 +13284,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。Contact email, order references, and basic site security data.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
@@ -13319,7 +13319,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats为WarzoneWindows PC提供ESP wallhack、radar hack和warzone aimbotundetected套餐。Contact email, order references, and basic site security data.",
-								"通过checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
+								"通过 checkout即时数字交付。$35/月和$150终身含Ricochet维护。",
 							],
 						},
 						{
@@ -13402,20 +13402,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack और Aimbot",
-					description: "Warzone undetected cheats. ESP wallhack, radar hack, Aimbot, Ricochet maintenance. Instant digital delivery.",
+					description: "Warzone undetected cheats. ESP wallhack, radar hack, Aimbot, Ricochet maintenance. Instant instant digital delivery.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack और Aimbot",
 					intro: "Warzone Windows PC undetected पैकेज: ESP wallhack, radar, Aimbot, Ricochet maintenance सहित.",
 					imageAlt: "Warzone cheats hero ESP aimbot wallhack",
@@ -13429,7 +13429,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "2026 में Warzone Cheats क्यों",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। BR और Resurgence में दुश्मन squad पढ़ने के लिए आदर्श.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
@@ -13457,20 +13457,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। player boxes, loot markers, and wallhack overlays.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13492,20 +13492,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। soft aim, FOV, and per-weapon Aimbot profiles.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13527,20 +13527,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "फ़ीचर्स",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। ESP, soft aim, radar controls.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13562,20 +13562,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "कीमत",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। $35 monthly or $150 lifetime licenses.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13597,20 +13597,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "सेटअप",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। Windows PC activation and first-launch setup.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13632,20 +13632,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "अपडेट",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। Ricochet patch status and rebuild notes.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13667,20 +13667,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। ESP, soft aim, delivery, and Ricochet questions.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13702,20 +13702,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "सहायता",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। order help and license support contact.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13737,20 +13737,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected cheats",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। undetected maintenance after Ricochet patches.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13772,20 +13772,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। wallhack ESP for players, loot, and distance.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13807,20 +13807,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। 2D radar cues for flanks and rotations.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13842,20 +13842,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। how Ricochet updates are handled for Warzone hacks.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13863,7 +13863,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before तुरंत डिजिटल डिलीवरी. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -13877,20 +13877,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। 2026 Warzone cheats checklist before checkout.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13912,20 +13912,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। the Warzone hacks pillar for ESP and Aimbot.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13947,20 +13947,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। digital license download after payment.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -13982,20 +13982,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod Menu",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। in-client ESP and soft aim toggles.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14017,20 +14017,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। smooth soft aim settings for Windows PC.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14052,20 +14052,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "सर्वश्रेष्ठ Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। what to compare before buying Warzone cheats.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14087,20 +14087,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hack",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। undetected Aimbot hack assist for Warzone.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14122,20 +14122,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hack",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। ESP hack boxes, loot pins, and distance.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14157,20 +14157,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। unlock-all searches vs real ESP and Aimbot tools.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Ricochet पैच के बाद Updates पेज देखें। कोई भी cheat permanent undetected गारंटी नहीं देता।",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
 							h2: "तुरंत डिजिटल डिलीवरी",
 							paragraphs: [
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 								"सहायता: support@warzonehack.net",
 							],
 						},
@@ -14227,7 +14227,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। Contact email, order references, and basic site security data.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
@@ -14262,7 +14262,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats Warzone के लिए Windows PC पर ESP wallhack, radar hack और warzone aimbot undetected पैकेज देता है। Contact email, order references, and basic site security data.",
-								"checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
+								" checkout से तुरंत डिजिटल डिलीवरी। $35/माह और $150 लाइफ़टाइम में Ricochet maintenance शामिल।",
 							],
 						},
 						{
@@ -14345,20 +14345,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Cheat Warzone undetected untuk Warzone di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan Ricochet. Pengiriman digital",
+					description: "Cheat Warzone undetected untuk Warzone di PC. ESP wallhack, radar hack, Aimbot, pemeliharaan Ricochet. Pengiriman digital instan.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack & Aimbot",
 					intro: "Paket undetected Warzone di Windows PC: ESP wallhack, radar, Aimbot dengan pemeliharaan Ricochet.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -14372,7 +14372,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Mengapa Warzone Cheats di 2026",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Ideal membaca squad musuh di BR dan Resurgence.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
@@ -14400,20 +14400,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. player boxes, loot markers, and wallhack overlays.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14435,20 +14435,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14470,20 +14470,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Fitur",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. ESP, soft aim, radar controls.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14505,20 +14505,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Harga",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. $35 monthly or $150 lifetime licenses.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14540,20 +14540,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Setup",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Windows PC activation and first-launch setup.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14575,20 +14575,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Pembaruan",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Ricochet patch status and rebuild notes.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14610,20 +14610,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. ESP, soft aim, delivery, and Ricochet questions.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14645,20 +14645,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Dukungan",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. order help and license support contact.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14680,20 +14680,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat undetected",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. undetected maintenance after Ricochet patches.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14715,20 +14715,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. wallhack ESP for players, loot, and distance.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14750,20 +14750,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. 2D radar cues for flanks and rotations.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14785,20 +14785,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. how Ricochet updates are handled for Warzone hacks.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14806,7 +14806,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheat Warzone 2026 | Buyer Guide",
-					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before checkout. pengiriman digital instan. undetected — PC Windows.",
+					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before pengiriman digital instan. undetected — PC Windows.",
 					h1: "Cheat Warzone 2026",
 					intro: "Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Cheat Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -14820,20 +14820,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. 2026 Warzone cheats checklist before checkout.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14855,20 +14855,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. the Warzone hacks pillar for ESP and Aimbot.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14890,20 +14890,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Download Cheat Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. digital license download after payment.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14925,20 +14925,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Menu mod Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. in-client ESP and soft aim toggles.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14960,20 +14960,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. smooth soft aim settings for Windows PC.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -14995,20 +14995,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheat Warzone terbaik",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. what to compare before buying Warzone cheats.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -15030,20 +15030,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. undetected Aimbot hack assist for Warzone.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -15065,20 +15065,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. ESP hack boxes, loot pins, and distance.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -15100,20 +15100,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. unlock-all searches vs real ESP and Aimbot tools.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Periksa Updates setelah patch Ricochet. Tidak ada cheat yang menjamin undetected permanen.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
 							h2: "pengiriman digital instan",
 							paragraphs: [
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 								"support@warzonehack.net untuk dukungan dan legal.",
 							],
 						},
@@ -15170,7 +15170,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Contact email, order references, and basic site security data.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
@@ -15205,7 +15205,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats menyediakan ESP wallhack, radar hack, dan warzone aimbot undetected untuk Warzone di PC Windows. Contact email, order references, and basic site security data.",
-								"pengiriman digital instan via checkout. Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
+								"pengiriman digital instan via checkout . Paket $35/bulan dan $150 seumur hidup termasuk pemeliharaan Ricochet.",
 							],
 						},
 						{
@@ -15288,14 +15288,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -15749,7 +15749,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. จัดส่งดิจิทัลทันที. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before จัดส่งดิจิทัลทันที. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats รวม ESP wallhack, radar hack และ warzone aimbot แบบ undetected สำหรับ Warzone บน Windows PC Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -16231,20 +16231,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack & Aimbot",
-					description: "Cheat Warzone undetected cho Warzone trên PC. ESP wallhack, radar hack, Aimbot, bảo trì Ricochet. Giao hàng kỹ thuật số tức",
+					description: "Cheat Warzone undetected cho Warzone trên PC. ESP wallhack, radar hack, Aimbot, bảo trì Ricochet. Giao hàng kỹ thuật số tức thì.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack & Aimbot",
 					intro: "Gói undetected Warzone trên Windows PC: ESP wallhack, radar, Aimbot với bảo trì Ricochet.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -16692,7 +16692,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheat Warzone 2026 | Buyer Guide",
-					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before checkout. giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
+					description: "Cheat Warzone 2026: 2026 Warzone cheats checklist before giao hàng kỹ thuật số tức thì. undetected — PC Windows.",
 					h1: "Cheat Warzone 2026",
 					intro: "Warzone Cheats cung cấp ESP wallhack, radar hack và warzone aimbot undetected cho Warzone trên PC Windows. Cheat Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -17174,20 +17174,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack і Aimbot",
-					description: "Undetected чіти Warzone для Warzone на PC. ESP wallhack, radar hack, Aimbot, обслуговування Ricochet. Мгновенная цифровая",
+					description: "Undetected чіти Warzone для Warzone на PC. ESP wallhack, radar hack, Aimbot, обслуговування Ricochet. Мгновенная цифровая доставка.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack і Aimbot",
 					intro: "Undetected пакет для Warzone на Windows PC: ESP wallhack, radar, Aimbot з обслуговуванням Ricochet.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -17635,7 +17635,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Чіти Warzone 2026 | Buyer Guide",
-					description: "Чіти Warzone 2026: 2026 Warzone cheats checklist before checkout. миттєва цифрова доставка. undetected — Windows PC.",
+					description: "Чіти Warzone 2026: 2026 Warzone cheats checklist before миттєва цифрова доставка. undetected — Windows PC.",
 					h1: "Чіти Warzone 2026",
 					intro: "Warzone Cheats об'єднує ESP wallhack, radar hack і warzone aimbot у undetected пакеті для Warzone на Windows PC. Чіти Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -18117,14 +18117,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -18578,7 +18578,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone cheaty 2026 | Buyer Guide",
-					description: "Warzone cheaty 2026: 2026 Warzone cheats checklist before checkout. okamžité digitální doručení. undetected — Windows PC.",
+					description: "Warzone cheaty 2026: 2026 Warzone cheats checklist before okamžité digitální doručení. undetected — Windows PC.",
 					h1: "Warzone cheaty 2026",
 					intro: "Warzone Cheats spojuje ESP wallhack, radar hack a warzone aimbot jako undetected balíček pro Warzone na Windows PC. Warzone cheaty 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -19060,20 +19060,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
 				home: {
 					title: "Warzone Cheats 2026 | ESP, Wallhack și Aimbot",
-					description: "Cheats Warzone undetected pentru Warzone pe PC. ESP wallhack, radar hack, Aimbot, mentenanță Ricochet. Livrare digitală",
+					description: "Cheats Warzone undetected pentru Warzone pe PC. ESP wallhack, radar hack, Aimbot, mentenanță Ricochet. Livrare digitală instantă.",
 					h1: "Warzone Cheats — Undetected ESP, Wallhack și Aimbot",
 					intro: "Pachet undetected Warzone pe Windows PC: ESP wallhack, radar, Aimbot cu mentenanță Ricochet.",
 					imageAlt: "Warzone ESP player tags hack",
@@ -19087,7 +19087,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "De ce Warzone Cheats în 2026",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Ideal pentru citirea squad-urilor inamice în BR și Resurgence.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
@@ -19115,20 +19115,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. player boxes, loot markers, and wallhack overlays.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19150,20 +19150,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19185,20 +19185,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Funcții",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. ESP, soft aim, radar controls.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19220,20 +19220,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Prețuri",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. $35 monthly or $150 lifetime licenses.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19255,20 +19255,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Instalare",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Windows PC activation and first-launch setup.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19290,20 +19290,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Actualizări",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Ricochet patch status and rebuild notes.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19325,20 +19325,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19360,20 +19360,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Suport",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. order help and license support contact.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19395,20 +19395,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats undetected",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. undetected maintenance after Ricochet patches.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19430,20 +19430,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Wallhack Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. wallhack ESP for players, loot, and distance.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19465,20 +19465,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar hack",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. 2D radar cues for flanks and rotations.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19500,20 +19500,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bypass Ricochet",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. how Ricochet updates are handled for Warzone hacks.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19521,7 +19521,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Cheats Warzone 2026 | Buyer Guide",
-					description: "Cheats Warzone 2026: 2026 Warzone cheats checklist before checkout. livrare digitală instantă. undetected — PC Windows.",
+					description: "Cheats Warzone 2026: 2026 Warzone cheats checklist before livrare digitală instantă. undetected — PC Windows.",
 					h1: "Cheats Warzone 2026",
 					intro: "Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Cheats Warzone 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -19535,20 +19535,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats Warzone 2026",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. 2026 Warzone cheats checklist before checkout.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19570,20 +19570,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cheats Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19605,20 +19605,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Descărcare Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. digital license download after payment.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19640,20 +19640,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Meniu mod Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. in-client ESP and soft aim toggles.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19675,20 +19675,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Soft aim Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. smooth soft aim settings for Windows PC.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19710,20 +19710,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Cele mai bune cheats Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. what to compare before buying Warzone cheats.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19745,20 +19745,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack aimbot Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. undetected Aimbot hack assist for Warzone.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19780,20 +19780,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Hack ESP Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. ESP hack boxes, loot pins, and distance.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19815,20 +19815,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Unlock all Warzone",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Verificați Updates după patch-uri Ricochet. Niciun cheat nu garantează undetected permanent.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
 							h2: "livrare digitală instantă",
 							paragraphs: [
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 								"support@warzonehack.net pentru suport și legal.",
 							],
 						},
@@ -19885,7 +19885,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Contact email, order references, and basic site security data.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
@@ -19920,7 +19920,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats combină ESP wallhack, radar hack și warzone aimbot undetected pentru Warzone pe PC Windows. Contact email, order references, and basic site security data.",
-								"Licențe cu livrare digitală instantă via checkout. Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
+								"Licențe cu livrare digitală instantă via checkout . Planuri $35/lună și $150 pe viață includ mentenanță Ricochet.",
 							],
 						},
 						{
@@ -20003,14 +20003,14 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				images: {
 					hero: "Warzone Cheats hero — ESP and aimbot overlay in Warzone",
 					espWallhack: "Wallhack outlines showing players and squads through walls",
-					aimbotCombat: "Soft aim assist overlay during an Warzone raid",
+					aimbotCombat: "Aimbot with humanizer overlay during a Warzone fight",
 					squadFight: "Warzone Cheats combat overlay during a squad fight",
-					playerEsp: "Player ESP boxes and distance readouts in a Warzone raid",
+					playerEsp: "Player ESP boxes and distance readouts in Warzone",
 					headerArt: "Aimbot view and bone priority controls for Warzone",
 					cheatsPackage: "2D radar threat overlay for Warzone",
 					rebootFight: "Aimbot assist during a Warzone firefight",
-					battleRoyale: "Warzone Cheats in-raid overview for Windows PC",
-					battleRoyaleIsland: "ESP markers for loot and extracts in Warzone",
+					battleRoyale: "Warzone Cheats in-match overview for Windows PC",
+					battleRoyaleIsland: "Loot ESP markers for plates, ammo, and crates in Warzone",
 				},
 			},
 			pages: {
@@ -20030,7 +20030,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Varför Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Ideal för att läsa fiendesquads i BR och Resurgence.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
@@ -20058,20 +20058,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. player boxes, loot markers, and wallhack overlays.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20093,20 +20093,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. soft aim, FOV, and per-weapon Aimbot profiles.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20128,20 +20128,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Funktioner",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. ESP, soft aim, radar controls.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20163,20 +20163,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Priser",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. $35 monthly or $150 lifetime licenses.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20198,20 +20198,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Installation",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Windows PC activation and first-launch setup.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20233,20 +20233,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Uppdateringar",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Ricochet patch status and rebuild notes.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20268,20 +20268,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "FAQ",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. ESP, soft aim, delivery, and Ricochet questions.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20303,20 +20303,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Support",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. order help and license support contact.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20338,20 +20338,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Undetected cheats",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. undetected maintenance after Ricochet patches.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20373,20 +20373,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Wallhack",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. wallhack ESP for players, loot, and distance.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20408,20 +20408,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Radar Hack",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. 2D radar cues for flanks and rotations.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20443,20 +20443,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Ricochet Bypass",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. how Ricochet updates are handled for Warzone hacks.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20464,7 +20464,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 				},
 				"cheats-2026": {
 					title: "Warzone Cheats 2026 | Buyer Guide",
-					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before checkout. omedelbar digital leverans. undetected — Windows PC.",
+					description: "Warzone Cheats 2026: 2026 Warzone cheats checklist before omedelbar digital leverans. undetected — Windows PC.",
 					h1: "Warzone Cheats 2026",
 					intro: "Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Warzone Cheats 2026.",
 					imageAlt: "Warzone Cheats product overview for Warzone",
@@ -20478,20 +20478,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats 2026",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. 2026 Warzone cheats checklist before checkout.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20513,20 +20513,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. the Warzone hacks pillar for ESP and Aimbot.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20548,20 +20548,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Cheat Download",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. digital license download after payment.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20583,20 +20583,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Mod-meny",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. in-client ESP and soft aim toggles.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20618,20 +20618,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Soft Aim",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. smooth soft aim settings for Windows PC.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20653,20 +20653,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Bästa Warzone Cheats",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. what to compare before buying Warzone cheats.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20688,20 +20688,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Aimbot Hack",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. undetected Aimbot hack assist for Warzone.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20723,20 +20723,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone ESP Hack",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. ESP hack boxes, loot pins, and distance.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20758,20 +20758,20 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Warzone Unlock All",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. unlock-all searches vs real ESP and Aimbot tools.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "undetected",
 							paragraphs: [
 								"Kontrollera Updates efter Ricochet-patchar. Ingen cheat garanterar permanent undetected status.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
 							h2: "omedelbar digital leverans",
 							paragraphs: [
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 								"support@warzonehack.net för support och juridik.",
 							],
 						},
@@ -20828,7 +20828,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Digital delivery",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Contact email, order references, and basic site security data.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{
@@ -20863,7 +20863,7 @@ export const i18nContent: Record<LocaleCode, { ui: LocaleUi; pages: Record<PageI
 							h2: "Acceptance of terms",
 							paragraphs: [
 								"Warzone Cheats kombinerar ESP wallhack, radar hack och warzone aimbot som undetected paket för Warzone på Windows PC. Contact email, order references, and basic site security data.",
-								"Licenser med omedelbar digital leverans via checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
+								"Licenser med omedelbar digital leverans via  checkout. $35/mån och $150 lifetime inkl. Ricochet-underhåll.",
 							],
 						},
 						{

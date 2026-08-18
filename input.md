@@ -310,48 +310,54 @@ Trailing slash is built into Astro (`/features` → `/features/`).
 
 ## 7. Smoke test (after DNS is live)
 
+Quick check (canonical + robots):
+
+```powershell
+node scripts/smoke-warzone.mjs
+```
+
 PowerShell:
 
 ```powershell
 # Apex
-curl.exe -sI https://abihacks.com/
+curl.exe -sI https://warzonehack.net/
 # HTTP/2 200
 
 # http → https (Always Use HTTPS)
-curl.exe -sI http://abihacks.com/
-# 301 Location: https://abihacks.com/
+curl.exe -sI http://warzonehack.net/
+# 301 Location: https://warzonehack.net/
 
 # www → apex (Redirect Rule)
-curl.exe -sI https://www.abihacks.com/
-# 301 Location: https://abihacks.com/
+curl.exe -sI https://www.warzonehack.net/
+# 301 Location: https://warzonehack.net/
 
 # Trailing slash
-curl.exe -sI https://abihacks.com/features
-# 301 → https://abihacks.com/features/
+curl.exe -sI https://warzonehack.net/features
+# 301 → https://warzonehack.net/features/
 
 # Core pages
-curl.exe -sI https://abihacks.com/features/
-curl.exe -sI https://abihacks.com/pricing/
-curl.exe -sI https://abihacks.com/updates/
-curl.exe -sI https://abihacks.com/setup/
-curl.exe -sI https://abihacks.com/blog/
+curl.exe -sI https://warzonehack.net/features/
+curl.exe -sI https://warzonehack.net/pricing/
+curl.exe -sI https://warzonehack.net/updates/
+curl.exe -sI https://warzonehack.net/setup/
+curl.exe -sI https://warzonehack.net/blog/
 
 # Brand Studio hidden
-curl.exe -sI https://abihacks.com/brand-studio/
+curl.exe -sI https://warzonehack.net/brand-studio/
 # 200 (404 page), not the studio UI
 
-# Old blog slug
-curl.exe -sI https://abihacks.com/blog/arena-breakout-weapon-tier-list
-# 301 → /blog/arena-breakout-gun-tier-list/
+# Old Tarkov URL
+curl.exe -sI https://warzonehack.net/tarkov-cheats
+# 301 → /warzone-cheats/
 
 # Sitemaps + robots
-curl.exe -sI https://abihacks.com/sitemap.xml
-curl.exe -sI https://abihacks.com/sitemap-en.xml
-curl.exe -sI https://abihacks.com/sitemap-images.xml
-curl.exe -sI https://abihacks.com/robots.txt
+curl.exe -sI https://warzonehack.net/sitemap.xml
+curl.exe -sI https://warzonehack.net/sitemap-en.xml
+curl.exe -sI https://warzonehack.net/sitemap-images.xml
+curl.exe -sI https://warzonehack.net/robots.txt
 ```
 
-Browser: homepage, Features, Store, Status. View source: canonical is `https://abihacks.com/...` with a trailing slash. `robots.txt` ends with `Sitemap: https://abihacks.com/sitemap.xml`.
+Browser: homepage, Features, Store, Status. View source: canonical is `https://warzonehack.net/...` with a trailing slash. `robots.txt` ends with `Sitemap: https://warzonehack.net/sitemap.xml`.
 
 ---
 
